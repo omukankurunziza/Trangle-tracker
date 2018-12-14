@@ -8,5 +8,7 @@ function getResult(){
   else if(side1 === side2 || side1 === side3 || side2 === side3){
       alert("This is a Isosceles triangle");
   }
-  
+  else if ((side1 + side2) <= side3 || (side1 + side3) <= side2 || (side2 + side3) <= side1){
+      alert("This is a not a difinite triangle");
+  }
 }
