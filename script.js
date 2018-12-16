@@ -4,6 +4,7 @@ function getResult(){
     var side3 = parseFloat(document.getElementById('side3').value);
   if (side1 === side2 && side2 === side3){
       alert("This is an Equirateral triangle");
+      window.location.href="equirateral.html";
   }  
   else if(side1 === side2 || side1 === side3 || side2 === side3){
       alert("This is a Isosceles triangle");
