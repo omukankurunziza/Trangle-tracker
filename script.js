@@ -13,6 +13,6 @@ function getResult(){
       alert("This is a not a difinite triangle");
   }
   else {
-      "This is a scalene triangle"
+      alert("This is a scalene triangle");
   }
 }
