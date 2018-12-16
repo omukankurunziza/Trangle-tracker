@@ -11,7 +11,7 @@ This is an application that determines whether a set of three numbers can either
 * CSS
 * Markdown
 * javascript
-fell free to contact me on :
+## fell free to contact me on :
 ## nshutioppo1987@gmail.com 
 tel:+250785073251
 ### whatsapp : +250785073251
