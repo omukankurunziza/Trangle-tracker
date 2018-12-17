@@ -2,29 +2,23 @@
     width:0;
     border-left:200px solid transparent;
     border-right:200px solid transparent;
-    border-bottom:200px solide red;
+    border-bottom:200px solid blue;
 }
 #isoscles{
     width:0;
-    border: left 100px solid transparent;
+    border-left:100px solid transparent;
     border-right:100px solid transparent;
-    border-bottom:80px solide red; 
+    border-bottom:80px solid blue; 
 }
-#scalane{
+#scalene{
     width:0;
-    border: left 100px solid transparent;
+    border-left:100px solid transparent;
     border-right:200px solid transparent;
-    border-bottom:80px solide red; 
-}
-#nottrianngle{
-    width:0;
-    border: left 100px solid transparent;
-    border-right:100px solid transparent;
-    border-bottom:200px solide red; 
+    border-bottom:80px solid blue; 
 }
 body{
-    background-color: gray;
-    font-size: 25px;
+    background-color:gray;
+    font-size: 20px;
     text-align: center;
 }
 button{
@@ -38,17 +32,18 @@ button{
  }
  h1{
     
-    color: blue
+    color: burlywood;
     text-align: center;
     font-size: 40px;
     font-style: italic;
     font-weight: bolder;
     font-family: fantasy;
  } 
- h2,h3,h4{ color:aquamarine
-    font-weigth: bold;
+ h2,h3,h4{ color:brown;
+    font-weight: bold;
     text-align: center;
     font-weight: normal;
      font-size: 30px
   }
+
   
