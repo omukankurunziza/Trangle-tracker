@@ -1,20 +1,20 @@
 #equirateral{
     width:0;
-    border-left:200px solid transparent;
-    border-right:200px solid transparent;
-    border-bottom:200px solid blue;
+    border-left:400px solid transparent;
+    border-right:400px solid transparent;
+    border-bottom:400px solid blue;
 }
 #isoscles{
     width:0;
-    border-left:100px solid transparent;
-    border-right:100px solid transparent;
-    border-bottom:80px solid blue; 
+    border-left:600px solid transparent;
+    border-right:600px solid transparent;
+    border-bottom:400px solid blue; 
 }
 #scalene{
     width:0;
-    border-left:100px solid transparent;
-    border-right:200px solid transparent;
-    border-bottom:80px solid blue; 
+    border-left:500px solid transparent;
+    border-right:600px solid transparent;
+    border-bottom:400px solid blue; 
 }
 body{
     background-color:gray;
